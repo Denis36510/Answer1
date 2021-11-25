@@ -1,0 +1,6 @@
+Var answer = pick random([
+ 'Yes'
+ 'No'
+ '?'
+]);
+print(answer);
